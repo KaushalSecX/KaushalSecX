@@ -1,16 +1,16 @@
-## Hi there 👋
+🚀 About Me
+👋 Hey there! I'm Kaushal Kumar, an aspiring Cybersecurity Enthusiast & Full Stack Developer currently learning Web Security, Ethical Hacking, and Database Management.
 
-<!--
-**KaushalSecX/KaushalSecX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 What I'm Learning?
+🛡️ Cybersecurity & Ethical Hacking – Exploring penetration testing & threat analysis.
 
-Here are some ideas to get you started:
+💻 Full Stack Development – Understanding frontend & backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗃️ Oracle SQL & Databases – Learning to manage and secure data effectively.
+
+🚀 Current Project:
+📌 Building a PhonePe Management System using Oracle SQL & Full Stack concepts.
+
+📫 Let's Connect!
+🔗 GitHub | LinkedIn | Twitter
+
