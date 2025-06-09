@@ -36,28 +36,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Kaushalkumar012/PASSWORD-STRENGTH-ANALYZER">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushalkumar012&repo=PASSWORD-STRENGTH-ANALYZER&theme=tokyonight&border_radius=15" alt="Password Strength Analyzer"/>
-  </a>
-  <a href="https://github.com/Kaushalkumar012/PHONEPE_MANAGEMENT_SYSTEM">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushalkumar012&repo=PHONEPE_MANAGEMENT_SYSTEM&theme=tokyonight&border_radius=15" alt="PhonePe Management System"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Kaushalkumar012/SPOTIFY_CLONE">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushalkumar012&repo=SPOTIFY_CLONE&theme=tokyonight&border_radius=15" alt="Spotify Clone"/>
-  </a>
-  <a href="https://github.com/Kaushalkumar012/JAVA-STUDENT-MANAGEMENT">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushalkumar012&repo=JAVA-STUDENT-MANAGEMENT&theme=tokyonight&border_radius=15" alt="Java Student Management System"/>
-  </a>
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EpFagyJr)
