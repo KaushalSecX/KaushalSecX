@@ -1,4 +1,10 @@
-# 💫 About Me:
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=💻+Kaushal+Kumar+-+Aspiring+Cybersecurity+Specialist;👨‍💻+B.Tech+in+CSE+%7C+Cybersecurity+%26+IoT;🚀+Bug+Bounty+%7C+Full+Stack+Developer" alt="Kaushal Kumar Typing SVG">
+</h1>
+
+---
+
+## 💫 About Me:
 💻 **Kaushal Kumar - Aspiring Cybersecurity Specialist**  
 👋 Hi there! I'm Kaushal Kumar, a Computer Science Engineering undergraduate specializing in **Cybersecurity and IoT**. I'm passionate about building secure systems, solving problems, and exploring new technologies.
 
