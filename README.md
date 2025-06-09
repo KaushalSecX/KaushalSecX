@@ -90,8 +90,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Kaushalkumar012&icon=4&color=6" alt="visitors">
-</p>
+
 
 <!-- Powered by Kaushal Kumar | Inspired by clean profile UI trends -->
